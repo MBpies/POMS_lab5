@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мое первое приложение</string>
+    <string name="title_text">Тест на полное имя!</string>
+    <string name="edit_message2">Фамилия</string>
+    <string name="edit_message">Имя</string>
+    <string name="button_send">Результат</string>
+    <string name="result_ssum">Твое полное имя:</string>
+    <string name="switch_key">Сменить фрагмент</string>
+    <string name="Next_wind_key">Оба фрагмента</string>
+    <string name="numbers_title">Сумматор!</string>
+    <string name="numbers_first_number">Первое число</string>
+    <string name="numbers_second_number">Второе число</string>
+    <string name="menu_item0">Активность со списком</string>
+</resources>
